@@ -1,8 +1,8 @@
 # pak
 A useful & simple tool for creating custom templates for coding and other type of projects.
 
-**SHC - Shell Compiler**
-  ``sudo apt install shc``
+**SHC - Shell Compiler**  
+``sudo apt install shc``
 
 **NODE JS IS REQUIRED (v18)**  
 Either get the binaries from the NodeJS Site or use NVM (Node Version Manager)  
