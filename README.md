@@ -15,7 +15,7 @@ NVM - https://github.com/nvm-sh/nvm (A great node project!)
 ``cd nodepak-bin``  
 ``npm i``  
 ``cd ../../``  
-``sudo mv pak/* /usr/bin``
+``sudo mv pak/* /usr/bin``  
 or (1 Line)
 ```
 git clone https://github.com/Lavadude82/pak.git && cd pak && shc -f pak.sh -o pak && cd nodepak-bin && npm i && cd ../.. && sudo mv pak/* /usr/bin
