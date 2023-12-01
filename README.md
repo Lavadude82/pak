@@ -11,7 +11,7 @@ NVM - https://github.com/nvm-sh/nvm (A great node project!)
 # Install
 ``git clone https://github.com/Lavadude82/pak.git``  
 ``cd pak`` 
-``shc -f pak.sh -o pak``
+``shc -f pak.sh -o pak``  
 ``cd nodepak-bin``  
 ``npm i``  
 ``cd ../../``  
