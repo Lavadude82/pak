@@ -12,9 +12,10 @@ NVM - https://github.com/nvm-sh/nvm (A great node project!)
 ``npm i``   
 ``cd ../../``   
 ``sudo mv pak/* /usr/bin``  
+``sudo chmod +x /usr/bin/pak``   
 or (1 Line)
 ```
-git clone https://github.com/Lavadude82/pak.git && cd pak && npm i && cd ../.. && sudo mv pak/* /usr/bin
+git clone https://github.com/Lavadude82/pak.git && cd pak && npm i && cd ../.. && sudo mv pak/* /usr/bin && sudo chmod +x /usr/bin/pak
 ```
 
 
